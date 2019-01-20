@@ -59,9 +59,39 @@
 
 #### 2.新联系人
 
+点击新联系人，弹出联系人新增界面，如下图
+
+![](/assets/xjlxrpcd1914.png)
+
+\*号为必填项
+
+编辑联系人：
+
+通过左右切换联系人![](/assets/zyqhlxr1915.png)然后点击编辑按钮即可
+
+
+
 #### 3.联系人需求新增
+
+点击新建需求按钮
+
+![](/assets/lxrxjxqan1918.png)
+
+点击后
+
+![](/assets/xjxqtcjm1920.png)
+
+提交后保存需求
+
+需求回复：
+
+
 
 #### 4.人事情报新增
 
+最下面是人事情报区域，![](/assets/renshiqingbxinj1923.png)点击新建按钮进入情报新建界面，系统自动带出客户
 
+![](/assets/pcdrsqbxj1924.png)保存后即可新增情报
+
+![](/assets/zxrsqblb1926.png)
 
