@@ -78,13 +78,37 @@ CRM中只有类型为客户和供应商会和SAP ERP进行同步。
 
 #### 5.正式客户删除
 
-ERP中客户打上删除标记后，手工同步后，CRM客户状态变更为冻结
+ERP中客户打上删除标记后，手工同步后，CRM客户不可见
 
+![](/assets/pccustlist4zskhsc.png)我们在SAP中删除该客户
 
+![](/assets/sapsckh1758.png)
+
+保存后，我们再次在CRM同步客户
+
+![](/assets/pczctbysckh1758.png)
+
+点击确定后
+
+![](/assets/crmkhbkj1759.png)
 
 #### 6.客户等级调整
 
+点击客户编号，进入客户360卡片，点
+
+![](/assets/pccust360-jbzl.png)
+
+点击右侧的笔，弹出
+
+![](/assets/pctzkhdj1801.png)保存后
+
+![](/assets/pckhdjtz1801.png)
+
 #### 7.客户信用评级调整
+
+在客户360首页，
+
+
 
 #### 
 
