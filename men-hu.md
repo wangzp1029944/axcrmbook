@@ -1,6 +1,6 @@
 ### 个人门户概述
 
-华峰氨纶CRM个人门户主要包括如下功能：
+CRM个人门户主要包括如下功能：
 
 * [登陆（PC和APP）](/ge-ren-men-hu/deng-lu.md)
 * [门户首页（主题、个人头像修改、退出等功能）](/ge-ren-men-hu/men-hu-shou-ye.md)
