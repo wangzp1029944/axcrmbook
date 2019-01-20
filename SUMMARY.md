@@ -46,15 +46,15 @@
   * [拜访活动](shang-wu-huo-dong/bai-fang-huo-dong-guan-li.md)
   * [接待管理](shang-wu-huo-dong/jie-dai-huo-dong-guan-li.md)
 * [任务协作与通讯录](ren-wu-xie-zuo-yu-tong-xun-lu.md)
-  * 任务协作
-  * 通讯录
+  * [任务协作](ren-wu-xie-zuo-yu-tong-xun-lu/ren-wu-xie-zuo.md)
+  * [通讯录](ren-wu-xie-zuo-yu-tong-xun-lu/tong-xun-lu.md)
 * [产品中心](chan-pin-zhong-xin.md)
-  * 产品360
+  * [产品360](chan-pin-zhong-xin/chan-pin-360.md)
 * [知识管理](zhi-shi-ku.md)
   * [知识库](zhi-shi-ku/zhi-shi-ku.md)
   * [爱旭1000问](zhi-shi-ku/ai-xu-1000-wen.md)
-  * 机构报价大全
-  * 历史合同条款查询
+  * [机构报价大全](zhi-shi-ku/ji-gou-bao-jia-da-quan.md)
+  * [历史合同条款查询](zhi-shi-ku/li-shi-he-tong-tiao-kuan-cha-xun.md)
   * [小包批次查询](zhi-shi-ku/xiao-bao-pi-ci-cha-xun.md)
 * [流程中心](liu-cheng-zhong-xin.md)
 
