@@ -29,15 +29,15 @@
 
 #### 1.PC端登陆
 
-首次输入http://crm.aikosolar.net后会进入登陆界面，需要输入用户名和密码进行登陆
+首次输入[http://crm.aikosolar.net后会进入登陆界面，需要输入用户名和密码进行登陆](http://crm.aikosolar.net后会进入登陆界面，需要输入用户名和密码进行登陆)
 
 ![](/assets/pcddljm1508.png)
-
-
 
 > 注意：用户名为员工号，初始密码同员工号
 
 #### 2.App端登陆
 
+登陆界面如下
 
+![](/assets/applogonddl1532.png)
 
