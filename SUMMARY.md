@@ -7,6 +7,18 @@
 * [客户管理](ke-hu-guan-li.md)
   * [客户生命周期管理](ke-hu-guan-li/tie-san-jiao-ren-ming.md)
   * [客户360卡片](ke-hu-guan-li/ke-hu-qing-dan-yu-360-qia-pian.md)
+    * 客户360-基本资料
+    * 客户360-人事组织
+    * 客户360-财务风险
+    * 客户360-采购状况
+    * 客户360-生产状况
+    * 客户360-销售状况
+    * 客户360-研发状况
+    * 客户360-商务拜访
+    * 客户360-商机跟进
+    * 客户360-合同跟踪
+    * 客户360-客诉服务
+    * 客户360-费用分析
   * [客户铁三角任命](ke-hu-guan-li/ke-hu-tie-san-jiao-ren-ming.md)
   * [客户评价管理](ke-hu-guan-li/ke-hu-ping-jia-guan-li.md)
 * [市场管理](shi-chang-guan-li.md)
