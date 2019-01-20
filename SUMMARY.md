@@ -9,42 +9,42 @@
   * [客户清单与360卡片](ke-hu-guan-li/ke-hu-qing-dan-yu-360-qia-pian.md)
   * [客户铁三角任命](ke-hu-guan-li/ke-hu-tie-san-jiao-ren-ming.md)
 * [市场管理](shi-chang-guan-li.md)
-  * 市场情报
-  * 市场活动
+  * [市场情报](shi-chang-guan-li/shi-chang-qing-bao.md)
+  * [市场活动](shi-chang-guan-li/shi-chang-huo-dong.md)
 * [商机跟进](shang-ji-gen-jin.md)
-  * 线索管理
-  * 商机管理
-  * 报价管理
-  * 送样管理
+  * [线索管理](shang-ji-gen-jin/xian-suo-guan-li.md)
+  * [商机管理](shang-ji-gen-jin/shang-ji-guan-li.md)
+  * [报价管理](shang-ji-gen-jin/bao-jia-guan-li.md)
+  * [送样管理](shang-ji-gen-jin/song-yang-guan-li.md)
 * [合同中心](he-tong-zhong-xin.md)
-  * 合同审批
-  * 未清合同发货跟踪
-  * 未清合同收款跟踪
-  * 合同投产跟踪
-  * 合同评价管理
+  * [合同审批](he-tong-zhong-xin/he-tong-shen-pi.md)
+  * [未清合同发货跟踪](he-tong-zhong-xin/wei-qing-he-tong-fa-huo-gen-zong.md)
+  * [未清合同收款跟踪](he-tong-zhong-xin/wei-qing-he-tong-shou-kuan-gen-zong.md)
+  * [合同投产跟踪](he-tong-zhong-xin/he-tong-tou-chan-gen-zong.md)
+  * [合同评价管理](he-tong-zhong-xin/he-tong-ping-jia-guan-li.md)
 * [订单管理](ding-dan-guan-li.md)
   * [订单同步](ding-dan-guan-li/ding-dan-tong-bu.md)
   * [订单统计与分析](ding-dan-guan-li/ding-dan-tong-ji-yu-fen-xi.md)
 * [发货管理](fa-huo-guan-li.md)
-  * 发货同步
-  * 发货物流跟踪
+  * [发货同步](fa-huo-guan-li/fa-huo-tong-bu.md)
+  * [发货物流跟踪](fa-huo-guan-li/fa-huo-wu-liu-gen-zong.md)
 * [开票管理](kai-piao-guan-li.md)
-  * 发票同步
+  * [发票同步](kai-piao-guan-li/fa-piao-tong-bu.md)
   * [发票邮寄跟踪](kai-piao-guan-li/fa-piao-tong-bu-yu-tong-zhi.md)
 * [收款管理](shou-kuan-guan-li.md)
-  * 收款与保证金信息录入
-  * 收款分解到合同
+  * [收款与保证金信息录入](shou-kuan-guan-li/shou-kuan-yu-bao-zheng-jin-xin-xi-lu-ru.md)
+  * [收款分解到合同](shou-kuan-guan-li/shou-kuan-fen-jie-dao-he-tong.md)
 * [对账管理](dui-zhang-guan-li.md)
 * [售后管理](ke-su-guan-li.md)
-  * 客户投诉管理
-  * 销售退货-换货-降档-补片申请管理
+  * [客户投诉管理](ke-su-guan-li/ke-hu-tou-su-guan-li.md)
+  * [销售退货-换货-降档-补片申请管理](ke-su-guan-li/xiao-shou-tui-8d27-huan-8d27-jiang-6863-bu-pian-shen-qing-guan-li.md)
 * [日报管理](ri-bao-guan-li.md)
-  * CC3-AR日报
-  * CC3-FR日报
-  * CC3-SR日报
+  * [CC3-AR日报](ri-bao-guan-li/cc3-arri-bao.md)
+  * [CC3-FR日报](ri-bao-guan-li/cc3-frri-bao.md)
+  * [CC3-SR日报](ri-bao-guan-li/cc3-srri-bao.md)
 * [商务活动](shang-wu-huo-dong.md)
-  * 拜访活动管理
-  * 接待活动管理
+  * [拜访活动](shang-wu-huo-dong/bai-fang-huo-dong-guan-li.md)
+  * [接待管理](shang-wu-huo-dong/jie-dai-huo-dong-guan-li.md)
 * [任务协作与通讯录](ren-wu-xie-zuo-yu-tong-xun-lu.md)
   * 任务协作
   * 通讯录
