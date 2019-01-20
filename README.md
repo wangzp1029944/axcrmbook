@@ -14,7 +14,7 @@
 | :--- | :--- |
 | 暂无 | 暂无 |
 
-> 苹果版需要在完成安装后，点击设置-&gt;通用-&gt;设备管理-&gt;信任  Guangdong AikoSolar Technology Co., Ltd. Co., Ltd.
+> 苹果版需要在完成安装后，点击设置-&gt;通用-&gt;设备管理-&gt;信任  Guangdong Aiko Solar Energy Technology Co., Ltd.
 >
 > 注：1）仅第一次安装需要信任设置；2）新用户不再需要UDID收集即可安装
 

@@ -2,6 +2,8 @@
 
 * [爱旭CRM帮助手册](README.md)
 * [门户](men-hu.md)
+  * [登陆](men-hu/deng-lu.md)
+  * [门户首页](men-hu/men-hu-shou-ye.md)
 * [客户管理](ke-hu-guan-li.md)
 * [市场管理](shi-chang-guan-li.md)
 * [商机跟进](shang-ji-gen-jin.md)
