@@ -49,7 +49,7 @@
 
 点击新建情报，进入如下界面新建
 
-![](/assets/xjcwqb2033.png) 
+![](/assets/xjcwqb2033.png)
 
-保存即
+保存即可
 
