@@ -35,17 +35,39 @@
 
 ![](/assets/360xjxstxwj2149.png)
 
-点击新建按钮
+点击新建按钮，
+
+![](/assets/xjxstxwj2150.png)删除：在列表页勾选复选框，点击删除按钮
 
 #### 2.客户名录维护
 
+![](/assets/khmllb2150.png)
 
+点击新建按钮
+
+![](/assets/khmlxj2152.png)
+
+删除：在列表页勾选复选框后，点击删除按钮
 
 #### 3.销售报价维护
 
+![](/assets/xsbjlb2153.png)点击新建按钮
 
+![](/assets/xjxsbj2153.png)
+
+删除：在列表页勾选复选框后点击删除
 
 #### 4.进出口信息维护
 
+![](/assets/jckxxwh2154.png)点击新建按钮
 
+![](/assets/xjjckcpxx2154.png)
+
+删除：在列表页勾选复选框后点击删除按钮
+
+#### 5.销售情报新建
+
+![](/assets/xsqblb2155.png)
+
+点击新建，进入新建情报界面，此处略
 
