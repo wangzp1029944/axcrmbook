@@ -3,8 +3,8 @@
 * [爱旭CRM帮助手册](README.md)
 * [门户](men-hu.md)
 * [客户管理](ke-hu-guan-li.md)
-* 市场管理
-* 商机跟进
+* [市场管理](shi-chang-guan-li.md)
+* [商机跟进](shang-ji-gen-jin.md)
 * 合同中心
 * 订单中心
 * 发货管理
