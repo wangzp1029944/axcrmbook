@@ -7,7 +7,7 @@
 * [客户管理](ke-hu-guan-li.md)
   * [客户生命周期管理](ke-hu-guan-li/tie-san-jiao-ren-ming.md)
   * [客户360卡片](ke-hu-guan-li/ke-hu-qing-dan-yu-360-qia-pian.md)
-    * [客户360-基本资料](ke-hu-guan-li/ke-hu-qing-dan-yu-360-qia-pian/ke-hu-360-ji-ben-zi-liao.md)
+    * [客户360-基本信息](ke-hu-guan-li/ke-hu-qing-dan-yu-360-qia-pian/ke-hu-360-ji-ben-zi-liao.md)
     * [客户360-人事组织](ke-hu-guan-li/ke-hu-qing-dan-yu-360-qia-pian/ke-hu-360-ren-shi-zu-zhi.md)
     * [客户360-财务风险](ke-hu-guan-li/ke-hu-qing-dan-yu-360-qia-pian/ke-hu-360-cai-wu-feng-xian.md)
     * [客户360-采购状况](ke-hu-guan-li/ke-hu-qing-dan-yu-360-qia-pian/ke-hu-360-cai-gou-zhuang-kuang.md)
