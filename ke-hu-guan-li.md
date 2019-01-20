@@ -49,7 +49,17 @@ APP端客户清单：
 
 此外，系统支持快速筛选、排序以及手工筛选，界面如下：
 
+快速检索：
 
+![](/assets/custksjs4app1652.png)
+
+快速排序：
+
+![](/assets/appcustlistkspx1652.png)
+
+手工筛选：
+
+![](/assets/custlist4appsgsx.png)
 
 #### 2.客户导入与导出
 
