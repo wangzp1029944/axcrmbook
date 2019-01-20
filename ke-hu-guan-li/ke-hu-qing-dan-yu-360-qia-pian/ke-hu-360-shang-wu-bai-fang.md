@@ -29,17 +29,19 @@
 
 1.商务拜访日历
 
-![](/assets/swbfrl2208.png)
+![](/assets/khfbhdlb2223.png)
+
+
 
 > 在日历上有标签的表示该客户当日有商务拜访
 
 点击日历可以看到下面的商务拜访清单
 
-![](/assets/khbfhldq2212.png)
+![](/assets/rlbfqd2223.png)
 
 点击新建进入新建拜访活动界面
 
-![](/assets/xjbfhdjm2213.png)
+![](/assets/xjbfhd2224.png)
 
 > 拜访活动状态：草稿表示刚刚新建；进行中表示已经到了活动开始时间；已结束表示已经过了结束日期
 
@@ -47,15 +49,13 @@
 
 编辑商务拜访：点击拜访目标，进入详情页
 
-![](/assets/bfxqy2214.png)
+![](/assets/bfhdxqy2224.png)
 
 点击编辑按钮
 
-![](/assets/bjswbf2214.png)
+
 
 保存即可
 
 2.商务拜访删除
-
-
 
