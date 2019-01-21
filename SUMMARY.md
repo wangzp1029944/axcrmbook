@@ -30,7 +30,7 @@
   * [报价管理](shang-ji-gen-jin/bao-jia-guan-li.md)
   * [送样管理](shang-ji-gen-jin/song-yang-guan-li.md)
 * [合同中心](he-tong-zhong-xin.md)
-  * [合同审批](he-tong-zhong-xin/he-tong-shen-pi.md)
+  * [合同新建、变更与审批](he-tong-zhong-xin/he-tong-shen-pi.md)
   * [未清合同发货跟踪](he-tong-zhong-xin/wei-qing-he-tong-fa-huo-gen-zong.md)
   * [未清合同收款跟踪](he-tong-zhong-xin/wei-qing-he-tong-shou-kuan-gen-zong.md)
   * [合同投产跟踪](he-tong-zhong-xin/he-tong-tou-chan-gen-zong.md)
