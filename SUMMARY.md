@@ -36,8 +36,6 @@
   * [合同投产跟踪](he-tong-zhong-xin/he-tong-tou-chan-gen-zong.md)
   * [合同评价管理](he-tong-zhong-xin/he-tong-ping-jia-guan-li.md)
 * [订单管理](ding-dan-guan-li.md)
-  * [订单同步](ding-dan-guan-li/ding-dan-tong-bu.md)
-  * [订单统计与分析](ding-dan-guan-li/ding-dan-tong-ji-yu-fen-xi.md)
 * [发货管理](fa-huo-guan-li.md)
   * [发货同步](fa-huo-guan-li/fa-huo-tong-bu.md)
   * [发货物流跟踪](fa-huo-guan-li/fa-huo-wu-liu-gen-zong.md)
