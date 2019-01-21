@@ -65,7 +65,6 @@
   * [知识库](zhi-shi-ku/zhi-shi-ku.md)
   * [爱旭1000问](zhi-shi-ku/ai-xu-1000-wen.md)
   * [机构报价大全](zhi-shi-ku/ji-gou-bao-jia-da-quan.md)
-  * [历史合同条款查询](zhi-shi-ku/li-shi-he-tong-tiao-kuan-cha-xun.md)
   * [小包批次查询](zhi-shi-ku/xiao-bao-pi-ci-cha-xun.md)
 * [流程中心](liu-cheng-zhong-xin.md)
 
