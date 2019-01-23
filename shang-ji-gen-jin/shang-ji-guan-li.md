@@ -145,6 +145,18 @@ APP端录入跟踪记录：
 
 ![](/assets/xtzjplxx1911.png)
 
+##### 友商活动跟踪：
+
+![](/assets/tjyshdjl.png)
+
+进入选择友商界面
+
+![](/assets/xzyshdjl1914.png)
+
+依次录入活动类型、活动日期、活动内容，点击保存即可
+
+
+
 #### 3.商机统计与分析
 
 ![](/assets/kssxycl22.png)
