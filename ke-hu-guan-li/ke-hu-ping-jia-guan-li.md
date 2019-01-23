@@ -41,6 +41,10 @@
 
 ![](/assets/pcdkhpj1028.png)
 
+APP端客户评价首页
+
+![](/assets/appdkhpjsh1932.png)
+
 #### 2.新建客户评价
 
 进入客户评价管理界面，
