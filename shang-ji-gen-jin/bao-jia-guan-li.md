@@ -45,13 +45,21 @@
 
 ##### 财务利润预测：
 
-财务登陆后会受到报价单待办消息
+财务登陆PC和APP后会收到报价单待办消息
 
-![](/assets/bjdlbxs2112.png)
+PC端
+
+![](/assets/dqckslaa1844.png)
+
+点击铃铛进入待办中心
+
+APP端
+
+![](/assets/ABJ1842.png)
 
 点击某条消息进去后
 
-![](/assets/lryccw288111.png)
+
 
 点击利润预测按钮
 
