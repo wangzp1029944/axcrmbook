@@ -79,11 +79,19 @@ PC端：
 
 APP端指派：
 
-![](/assets/xsjtz1857.png)
+![](/assets/appx28111.png)
 
 点击消息进去
 
+![](/assets/xsj122a.png)
 
+点击指派
+
+![](/assets/xzryjm1905.png)
+
+点选人后,指派成功
+
+![](/assets/zpcg1907.png)
 
 #### 2.商机培育与跟踪
 
