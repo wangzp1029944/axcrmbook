@@ -141,6 +141,10 @@ APP端录入跟踪记录：
 
 ![](/assets/xpljm1910.png)
 
+点击确定后保存
+
+![](/assets/xtzjplxx1911.png)
+
 #### 3.商机统计与分析
 
 ![](/assets/kssxycl22.png)
