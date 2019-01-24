@@ -35,6 +35,12 @@
 
 ![](/assets/frribj1346.png)
 
+![](/assets/fr138111.png)
+
+![](/assets/frdsk1347.png)
+
+保存后生成日报
+
 
 
 #### 2.FR日报评论
