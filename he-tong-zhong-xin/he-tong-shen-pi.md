@@ -49,7 +49,7 @@
 
 ![](/assets/htjbxxlr2811.png)![](/assets/htzyxxlr28101.png)
 
-![](/assets/htqtxxlr2882.png)附件包括含价格附件和不含价格附件两块，品质，PMC等不可以看到价格
+![](/assets/htqtxxlr2882.png)附件包括含商务附件\(有价格\)和交付附件\(无价格\)两块，品质，PMC等不可以看到价格
 
 保存后同时发起商务审批和交付审批。
 
