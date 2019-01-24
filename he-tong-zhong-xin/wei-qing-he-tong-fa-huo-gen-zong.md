@@ -55,7 +55,15 @@
 
 #### 2.收款计划维护
 
+进入合同详情，查看收款计划
 
+![](/assets/ckskjh1156.png)
 
+点击新增
 
+![](/assets/xzskjh1156.png)
+
+点击保存
+
+![](/assets/xzskjhcg1157.png)
 
