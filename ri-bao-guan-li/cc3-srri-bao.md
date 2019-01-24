@@ -31,7 +31,15 @@
 
 #### 1.SR日报新建与推送通知
 
+点击新建SR日报，选择相应的客户
 
+![](/assets/srrb1355.png)
+
+![](/assets/xjrb1356.png)
+
+![](/assets/rbxjaaj1356.png)
+
+保存后即可
 
 #### 2.SR日报评论
 
