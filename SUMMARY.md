@@ -42,7 +42,7 @@
   * [发票同步](kai-piao-guan-li/fa-piao-tong-bu.md)
   * [发票邮寄跟踪](kai-piao-guan-li/fa-piao-tong-bu-yu-tong-zhi.md)
 * [收款管理](shou-kuan-guan-li.md)
-  * [收款与保证金信息录入](shou-kuan-guan-li/shou-kuan-yu-bao-zheng-jin-xin-xi-lu-ru.md)
+  * [收款录入](shou-kuan-guan-li/shou-kuan-yu-bao-zheng-jin-xin-xi-lu-ru.md)
   * [收款分解到合同](shou-kuan-guan-li/shou-kuan-fen-jie-dao-he-tong.md)
 * [对账管理](dui-zhang-guan-li.md)
 * [售后管理](ke-su-guan-li.md)
