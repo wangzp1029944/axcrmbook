@@ -65,5 +65,5 @@
 
 点击保存
 
-![](/assets/xzskjhcg1157.png)
+![](/assets/xzskjhcg1157.png)点击删除可以删除收款计划
 
