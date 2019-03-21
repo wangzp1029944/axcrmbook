@@ -38,7 +38,7 @@
 
 ##### 送样审批流程：
 
-![](/assets/sgcllc281811.png)
+![](/assets/songysplct)
 
 ##### 送样跟进处理：
 
