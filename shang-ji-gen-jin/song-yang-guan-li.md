@@ -42,7 +42,7 @@
 
 ##### 送样跟进处理：
 
-![](/assets/sygjcl1819.png)
+![](/assets/soongygjlc)
 
 #### 1.送样申请新建与审批
 
