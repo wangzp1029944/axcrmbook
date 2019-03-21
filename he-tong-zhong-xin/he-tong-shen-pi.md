@@ -37,7 +37,7 @@
 
 ##### 合同处理流程：
 
-![](/assets/htsplc2811.png)
+![](/assets/hetongshenp)
 
 #### 1.合同新建审批
 
@@ -48,8 +48,6 @@
 点击新建按钮
 
 ![](/assets/htjbxxlr2811.png)![](/assets/htzyxxlr28101.png)
-
-
 
 > 注意：商务说明字段品质物流不可见
 
