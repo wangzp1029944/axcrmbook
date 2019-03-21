@@ -38,7 +38,7 @@
 
 ##### 送样审批流程：
 
-![](/assets/songysplct)
+![](/assets/songysplc)
 
 ##### 送样跟进处理：
 
