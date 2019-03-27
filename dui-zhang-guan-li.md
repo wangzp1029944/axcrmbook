@@ -47,5 +47,5 @@
 
 ![](/assets/duzdck)客户360-&gt;财务风险中也可以查看该客户的历史对账单信息：
 
-
+![](/assets/khslldzd)
 
