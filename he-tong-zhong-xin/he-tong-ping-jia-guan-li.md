@@ -33,5 +33,7 @@
 
 ![](/assets/wanchtan)
 
+合同完成后，会自动发起合同评价流程，审批流程图如下：
 
+![](/assets/htpjlct)
 
