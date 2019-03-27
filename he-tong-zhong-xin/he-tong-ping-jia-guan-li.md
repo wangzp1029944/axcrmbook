@@ -41,5 +41,13 @@
 
 流程发起后，CRM系统会通过“合同小助手”向各节点审批人发送提醒。
 
+FR需要填写的退换货运费信息，以及质量风险评价信息：
 
+![](/assets/frtxhtpg)
+
+财务人员需要填写信息如下：
+
+![](/assets/cwhtpjlcckxx)
+
+![](/assets/cwtxhtpg)
 
