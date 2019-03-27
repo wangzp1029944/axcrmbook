@@ -47,3 +47,9 @@ AR或者销售支持创建客户接待。
 
 ![](/assets/khjdcjbd01)![](/assets/import.png)
 
+保存成功后，可以重新修改或者提交流程审批。审批流程图如下：
+
+![](/assets/khjdsplct)
+
+
+
