@@ -42,3 +42,5 @@ PC端菜单路径：流程中心-&gt;请示流程
 
 CRM会通过“商务小助手”通知各节点审批人。审批结果也会通知到申请人。
 
+![](/assets/crmqslczxstz)![](/assets/qslch5mxspimport.png)
+
