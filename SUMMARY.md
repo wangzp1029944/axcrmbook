@@ -69,4 +69,5 @@
   * [已办/待办](liu-cheng-zhong-xin/yi-529e-dai-ban.md)
   * [请示流程](liu-cheng-zhong-xin/qing-shi-liu-cheng.md)
 * [用款申请](yong-kuan-shen-qing.md)
+* [信用证管理](xin-yong-zheng-guan-li.md)
 
