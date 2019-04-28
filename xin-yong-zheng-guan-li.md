@@ -52,7 +52,7 @@
 
 ![](/assets/xjxyzsp)审批流程图如下：
 
-![](/assets/xyzsplctx)
+![](/assets/xyzsplctxx)
 
 审批流转或者被退回时，CRM会通过收款小助手发送消息。除正本录入外，其它审批可以在手机端完成：
 
