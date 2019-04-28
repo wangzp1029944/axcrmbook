@@ -48,7 +48,7 @@
 
 ![](/assets/xjxyzsp)审批流程图如下：
 
-![](/assets/xyzsplct)
+![](/assets/xyzsplctx)
 
 审批流转或者被退回时，CRM会通过收款小助手发送消息。除正本录入外，其它审批可以在手机端完成：
 
@@ -58,7 +58,7 @@
 
 > 跟踪流程图如下：
 
-![](/assets/xyzfhgzsplct)
+![](/assets/xyzfhgzlctx)
 
 仓库发货后，由PMC负责在CRM中确认发货并发起跟踪流程：
 
