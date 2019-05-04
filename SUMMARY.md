@@ -34,6 +34,7 @@
   * [合同发货及收款计划维护](he-tong-zhong-xin/wei-qing-he-tong-fa-huo-gen-zong.md)
   * [合同投产跟踪](he-tong-zhong-xin/he-tong-tou-chan-gen-zong.md)
   * [合同评价管理](he-tong-zhong-xin/he-tong-ping-jia-guan-li.md)
+  * [合同归档管理](he-tong-zhong-xin/he-tong-gui-dang-guan-li.md)
 * [订单管理](ding-dan-guan-li.md)
 * [发货管理](fa-huo-guan-li.md)
   * [发货同步](fa-huo-guan-li/fa-huo-tong-bu.md)
