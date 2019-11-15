@@ -12,7 +12,7 @@
 
 | 苹果客户端 | 安卓客户端 |
 | :--- | :--- |
-| ![](https://www.pgyer.com/app/qrcode/VeXb) | ![](https://www.pgyer.com/app/qrcode/AVFj) |
+|  | ![](/assets/andimport.png) |
 
 > 苹果版需要在完成安装后，点击设置-&gt;通用-&gt;设备管理-&gt;信任  Guangdong Aiko Solar Energy Technology Co., Ltd.
 >
