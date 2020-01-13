@@ -12,7 +12,7 @@
 
 | 苹果客户端 | 安卓客户端 |
 | :--- | :--- |
-| ![](/assets/isssoimport.png) | ![](/assets/andimport.png) |
+| 软件内测密码：123456![](/assets/pingguoduan) | ![](/assets/andimport.png) |
 
 > 苹果版需要在完成安装后，点击设置-&gt;通用-&gt;设备管理-&gt;信任  Guangdong Aiko Solar Energy Technology Co., Ltd.
 >
