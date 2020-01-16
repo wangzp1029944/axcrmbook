@@ -45,6 +45,7 @@
 * [收款管理](shou-kuan-guan-li.md)
   * [收款录入](shou-kuan-guan-li/shou-kuan-yu-bao-zheng-jin-xin-xi-lu-ru.md)
   * [收款分解到合同](shou-kuan-guan-li/shou-kuan-fen-jie-dao-he-tong.md)
+  * [收款账号](shou-kuan-guan-li/shou-kuan-zhang-hao.md)
 * [对账管理](dui-zhang-guan-li.md)
 * [售后管理](ke-su-guan-li.md)
   * [客户投诉管理](ke-su-guan-li/ke-hu-tou-su-guan-li.md)
