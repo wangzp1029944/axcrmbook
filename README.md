@@ -2,7 +2,7 @@
 
 该手册主要目标为指导爱旭太阳能科技营销机构、市场机构及后勤机构人员可以快速学习和使用CRM系统，包括PC版、苹果及安卓客户端。
 
-### CRM系统登陆方式:
+### CRM系统登陆方式:![](/assets/20200203-4-IOS.png)
 
 * PC端：[http://crm.aikosolar.net](http://crm.aikosolar.net)
 
@@ -12,7 +12,7 @@
 
 | 苹果客户端 | 安卓客户端 |
 | :--- | :--- |
-| ![](/assets/20200203-5-IOS.png)                                                       软件内测密码：123456   | ![](/assets/andimport.png) |
+| ![](/assets/20200203-5-IOS.png)  软件内测密码：123456 | ![](/assets/andimport.png) |
 
 > 苹果版需要在完成安装后，点击设置-&gt;通用-&gt;设备管理-&gt;信任  Guangdong Aiko Solar Energy Technology Co., Ltd.
 >
