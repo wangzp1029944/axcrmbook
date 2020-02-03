@@ -24,6 +24,7 @@
 * [市场管理](shi-chang-guan-li.md)
   * [市场情报](shi-chang-guan-li/shi-chang-qing-bao.md)
   * [市场活动](shi-chang-guan-li/shi-chang-huo-dong.md)
+  * [销售预测](shi-chang-guan-li/xiao-shou-yu-ce.md)
 * [商机跟进](shang-ji-gen-jin.md)
   * [线索管理](shang-ji-gen-jin/xian-suo-guan-li.md)
   * [商机管理](shang-ji-gen-jin/shang-ji-guan-li.md)
