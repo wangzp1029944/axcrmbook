@@ -37,7 +37,7 @@
 
 ##### 合同处理流程：
 
-![](/assets/hetongshenp)
+![](/assets/20200211-01-hetongchuangjian)
 
 #### 1.合同新建审批
 

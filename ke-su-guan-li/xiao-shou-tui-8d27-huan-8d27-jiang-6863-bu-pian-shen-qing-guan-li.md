@@ -44,7 +44,7 @@
 
 > 审批流程图如下：
 
-![](/assets/tuihhsqsp)
+![](/assets/20200211-02-tuihuanhuo)
 
 流程审批结束后，由销售支持在SAP中创建退换货订单。
 
