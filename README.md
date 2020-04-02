@@ -9,10 +9,11 @@
 > 推荐使用Chrome谷歌浏览器或360浏览器极速模式
 
 * 移动客户端：请扫描或微信中识别下方二维码
+* 软件内测密码：123456
 
 | 苹果客户端 | 安卓客户端 |
 | :--- | :--- |
-| ![](/assets/20200203-5-IOS.png)软件内测密码：123456 | ![](/assets/andimport.png) |
+| ![](/assets/20200203-5-IOS.png) | ![](/assets/2020-04-02-02-anzhuo.png) |
 
 > 苹果版需要在完成安装后，点击设置-&gt;通用-&gt;设备管理-&gt;信任  Guangdong Aiko Solar Energy Technology Co., Ltd.
 >
